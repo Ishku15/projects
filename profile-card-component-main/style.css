@@ -41,7 +41,7 @@ body{
     background-color: aqua;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(/projects/profile-card-component-main/images/bg-pattern-card.svg);
 }
 .avatar{
     position: absolute;
